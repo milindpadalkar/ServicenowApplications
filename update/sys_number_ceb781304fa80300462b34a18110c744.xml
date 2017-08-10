@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_145843_first_app_innovate">x_145843_first_app_innovate</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>INNO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-10 11:54:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ceb781304fa80300462b34a18110c744</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INNO</sys_name>
+        <sys_package display_value="First_Application_in_Servicenow" source="x_145843_first_app">47e68cf84f600300462b34a18110c79d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="First_Application_in_Servicenow">47e68cf84f600300462b34a18110c79d</sys_scope>
+        <sys_update_name>sys_number_ceb781304fa80300462b34a18110c744</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-10 11:54:01</sys_updated_on>
+    </sys_number>
+</record_update>

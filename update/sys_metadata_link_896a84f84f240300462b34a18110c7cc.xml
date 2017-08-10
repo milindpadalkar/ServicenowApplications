@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>47e68cf84f600300462b34a18110c79d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu/>
+        <name>First_Application_in_Servicenow</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_145843_first_app</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_145843_first_app</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-10 07:10:56</sys_created_on>
+        <sys_id>47e68cf84f600300462b34a18110c79d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-10 07:10:56</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-10 07:26:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>896a84f84f240300462b34a18110c7cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First_Application_in_Servicenow</sys_name>
+        <sys_package display_value="First_Application_in_Servicenow" source="x_145843_first_app">47e68cf84f600300462b34a18110c79d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="First_Application_in_Servicenow">47e68cf84f600300462b34a18110c79d</sys_scope>
+        <sys_update_name>sys_metadata_link_896a84f84f240300462b34a18110c7cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-10 07:26:05</sys_updated_on>
+        <tablename>sys_app</tablename>
+    </sys_metadata_link>
+</record_update>
